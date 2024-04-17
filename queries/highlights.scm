@@ -51,6 +51,7 @@
  "else"
  "explicit"
  "final"
+ "for"
  "friend"
  "if"
  "mutable"
@@ -70,6 +71,7 @@
  "virtual"
  "concept"
  "requires"
+ "while"
 ] @keyword
 
 ; Strings
