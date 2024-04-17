@@ -62,6 +62,7 @@
  "private"
  "protected"
  "public"
+ "struct"
  "template"
  "throw"
  "try"
