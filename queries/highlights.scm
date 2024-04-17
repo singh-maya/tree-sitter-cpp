@@ -24,6 +24,9 @@
 (function_declarator
   declarator: (field_identifier) @function)
 
+(struct_specifier
+  name: (type_identifier) @function)
+
 ; Types
 
 ((namespace_identifier) @type
