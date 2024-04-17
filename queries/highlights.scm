@@ -49,7 +49,6 @@
  "consteval"
  "delete"
  "else"
- "else if"
  "explicit"
  "final"
  "friend"
