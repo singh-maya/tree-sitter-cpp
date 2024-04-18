@@ -87,6 +87,7 @@
  "co_await"
  "co_return"
  "co_yield"
+ "const"
  "constexpr"
  "constinit"
  "consteval"
@@ -102,6 +103,7 @@
  "noexcept"
  "new"
  "override"
+ "operator"
  "private"
  "protected"
  "public"
@@ -128,4 +130,4 @@
 
 (type_identifier) @type
 
-(primitive_type)@type.builtin
+(primitive_type)@type
